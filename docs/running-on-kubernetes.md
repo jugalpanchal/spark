@@ -1253,6 +1253,7 @@ See the [configuration page](configuration.html) for information on Spark config
    <code>spark.kubernetes.executor.volumes.persistentVolumeClaim.checkpointpvc.annotation.foo=bar</code>.
   </td>
   <td>4.0.0</td>
+
 </tr>
 <tr>
   <td><code>spark.kubernetes.local.dirs.tmpfs</code></td>
